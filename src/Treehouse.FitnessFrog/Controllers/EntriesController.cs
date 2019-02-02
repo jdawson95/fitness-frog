@@ -100,6 +100,8 @@ namespace Treehouse.FitnessFrog.Controllers
                 return RedirectToAction("Index");
             }
 
+            SetupActivitiesSelectListItems();
+
             return View(entry);
         }
 
