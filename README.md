@@ -2,7 +2,7 @@
 
 This project was built using a 253 minute course on <a href="https://teamtreehouse.com">Team Treehouse</a>. This course helps teach how to create forms using ASP.NET MVC. We used various field types and for validation as we built a web version of the Fitness Frog application using C#.
 
-<h3>Demo Link:</h3>http://comicbookgallery.dawsonexample.com/
+<h3>Demo Link:</h3>http://fitnessfrog.dawsonexample.com/
 
 <h2>What I Learned</h2>
 <ul>
